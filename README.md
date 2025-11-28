@@ -1,11 +1,11 @@
 This is a repository for the fifth week assignment of the course 'Introduction to Deep Learning' (5511) of the Master of Data Science at the University of Colorado Boulder.
 The subject is 'I'm Something of a Painter Myself' challenge on Kaggle. The objective of the challenge is transform photos of still lifes into images in the style of a Monet painting.
-More information can be found on the Kaggle website: https://www.kaggle.com/competitions/gan-getting-started
+More information can be found on the Kaggle website: https://www.kaggle.com/competitions/gan-getting-started.
 
 - The notebook **5511-pr-week-5-eda.ipynb** contains exploratory data analysis.
 - The notebook **5511-pr-week-5-eval.ipynb** contains samples of the generated images.
 
-The architectures I trained are based on the architecture in this notebook: https://www.kaggle.com/code/raninikki/painter-gans 
+The architectures I trained are based on the architecture in this notebook: https://www.kaggle.com/code/raninikki/painter-gans.
 
 I trained the following versions of this architecture:
 
@@ -22,4 +22,4 @@ The scores were:
 - Architecture 3 |	114.3407
 - Architecture 4 | 	53.8185
 
-The scoring methodology is explained here: https://www.kaggle.com/competitions/gan-getting-started/overview
+The scoring methodology is explained here: https://www.kaggle.com/competitions/gan-getting-started/overview.
