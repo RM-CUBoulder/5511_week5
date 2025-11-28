@@ -16,9 +16,9 @@ of 0.02).
 
 The scores were:
 
-Architecture 1 | 	62.7996
-Architecture 2 | 	296.4718
-Architecture 3 |	114.3407
-Architecture 4 | 	53.8185
+- Architecture 1 | 	62.7996
+- Architecture 2 | 	296.4718
+- Architecture 3 |	114.3407
+- Architecture 4 | 	53.8185
 
 The scoring methodology is explained here: https://www.kaggle.com/competitions/gan-getting-started/overview
