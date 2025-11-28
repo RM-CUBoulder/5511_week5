@@ -5,7 +5,7 @@ More information can be found on the Kaggle website: https://www.kaggle.com/comp
 - The notebook **5511-pr-week-5-eda.ipynb** contains exploratory data analysis.
 - The notebook **5511-pr-week-5-eval.ipynb** contains samples of the generated images.
 
-The architectures I trained were based on the architecture in this notebook: https://www.kaggle.com/code/raninikki/painter-gans 
+The architectures I trained are based on the architecture in this notebook: https://www.kaggle.com/code/raninikki/painter-gans 
 I trained the following versions of this architecture:
 
 1. A baseline version with 10 epochs.
